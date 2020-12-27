@@ -20,7 +20,7 @@
 > The **master** branch is a pure front-end project，and the **forMallServer** branch is a front-end project that combines with the backend API server. The mall api server:[https://github.com/PowerDos/Mall-Server](https://github.com/PowerDos/Mall-Server)
 
 
-> The project on master branch is a pure front-end project，so the login account and password is fixed. Account: Gavin, Password: 123456
+> The project on master branch is a pure front-end project，so the login account and password is fixed. Account: WYQ, Password: 092218238
 
 ## How to run
 
